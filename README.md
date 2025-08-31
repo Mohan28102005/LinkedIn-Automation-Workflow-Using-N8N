@@ -107,13 +107,13 @@ This makes it easy to audit which articles have been posted and when.
 
 ## 🛠️ Tech Stack
 
--   [n8n](https://n8n.io) -- Workflow automation\
+-   [n8n](https://n8n.io) -- Workflow automation
 -   [Google Sheets API](https://developers.google.com/sheets/api) --
-    Data storage\
+    Data storage
 -   [LinkedIn
     API](https://learn.microsoft.com/en-us/linkedin/marketing/) -- Post
-    publishing\
--   [OpenRouter](https://openrouter.ai) -- AI-powered summaries\
+    publishing
+-   [OpenRouter](https://openrouter.ai) -- AI-powered summaries
 -   [Tavily](https://tavily.com) -- Image fetching
 
 ------------------------------------------------------------------------
